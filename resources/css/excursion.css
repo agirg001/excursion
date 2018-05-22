@@ -1,3 +1,39 @@
+.body{
+  background-color: black;
+  text-align: center;
+}
+.phone{
+  background-color: black;
+  text-align: center;
+}
+
+.finish{
+  font-family: Verdana;
+  color: grey;
+  font-size: 21px;
+}
+
+.soon{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.boarder{
+  color: grey;
+  text-align: right;
+}
+
 h1{
-  font-size: 100px;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  font-style: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white
 }
